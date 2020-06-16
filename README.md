@@ -1,2 +1,3 @@
 # practic
-Practic
+
+how to do it 
